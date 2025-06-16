@@ -1,0 +1,210 @@
+[2025-06-16T16:02:26.330Z] info: kubernetes.yaml was copied to the config folder
+[2025-06-16T16:02:41.721Z] info: docker.yaml was copied to the config folder
+[2025-06-16T16:02:41.722Z] info: services.yaml was copied to the config folder
+[2025-06-16T16:02:41.723Z] info: bookmarks.yaml was copied to the config folder
+[2025-06-16T16:02:41.729Z] info: widgets.yaml was copied to the config folder
+[2025-06-16T16:02:41.730Z] info: custom.css was copied to the config folder
+[2025-06-16T16:02:41.731Z] info: custom.js was copied to the config folder
+[2025-06-16T16:12:19.486Z] info: custom.css was copied to the config folder
+[2025-06-16T16:12:19.487Z] info: custom.js was copied to the config folder
+[2025-06-16T16:56:23.858Z] error: undefined
+[2025-06-16T16:56:23.863Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T16:56:23.870Z] error: <index> TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/index.js:1:15130
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/index.js:1:15075
+    at Array.map (<anonymous>)
+    at f (/app/.next/server/pages/index.js:1:15012)
+    at async L (/app/.next/server/pages/index.js:7:53402)
+    at async e3 (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:25:5108)
+    at async doRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:1593:38)
+    at async /app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/response-cache/index.js:84:36
+    at async /app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/lib/batcher.js:45:32
+[2025-06-16T16:56:23.922Z] error: undefined
+[2025-06-16T16:56:23.923Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T16:56:28.968Z] error: undefined
+[2025-06-16T16:56:28.971Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T16:56:30.684Z] error: undefined
+[2025-06-16T16:56:30.685Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T16:56:34.745Z] error: undefined
+[2025-06-16T16:56:34.747Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T16:56:44.783Z] error: undefined
+[2025-06-16T16:56:44.785Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T16:56:59.799Z] error: undefined
+[2025-06-16T16:56:59.800Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T16:57:15.836Z] error: undefined
+[2025-06-16T16:57:15.837Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T16:57:15.844Z] error: <index> TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/index.js:1:15130
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/index.js:1:15075
+    at Array.map (<anonymous>)
+    at f (/app/.next/server/pages/index.js:1:15012)
+    at async L (/app/.next/server/pages/index.js:7:53402)
+    at async e3 (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:25:5108)
+    at async doRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:1593:38)
+    at async /app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/response-cache/index.js:84:36
+    at async /app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/lib/batcher.js:45:32
+[2025-06-16T16:57:15.929Z] error: undefined
+[2025-06-16T16:57:15.930Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T16:57:25.990Z] error: undefined
+[2025-06-16T16:57:25.997Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T16:57:28.010Z] error: undefined
+[2025-06-16T16:57:28.011Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T16:57:28.088Z] error: <index> TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/index.js:1:15130
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/index.js:1:15075
+    at Array.map (<anonymous>)
+    at f (/app/.next/server/pages/index.js:1:15012)
+    at async L (/app/.next/server/pages/index.js:7:53402)
+    at async e3 (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:25:5108)
+    at async doRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:1593:38)
+    at async /app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/response-cache/index.js:84:36
+    at async /app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/lib/batcher.js:45:32
+[2025-06-16T16:57:28.174Z] error: undefined
+[2025-06-16T16:57:28.175Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T16:57:32.185Z] error: undefined
+[2025-06-16T16:57:32.186Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T16:57:37.218Z] error: undefined
+[2025-06-16T16:57:37.221Z] error: TypeError: Cannot read properties of null (reading '0')
+    at /app/.next/server/pages/api/bookmarks.js:1:2105
+    at Array.map (<anonymous>)
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)

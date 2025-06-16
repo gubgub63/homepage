@@ -1,0 +1,19 @@
+background:
+  image: /images/pexels-maxfrancis-2246476.jpg
+  blur: xl
+  brightness: 75
+  saturate : 50
+  opacity : 50
+
+widgets:
+  - clock:
+      format: 24h
+      timezone: Europe/Paris
+  - weather:
+      label: Météo
+      latitude: 48.8566
+      longitude: 2.3522
+      units: metric
+  - quote:
+      label: Citation du jour
+
