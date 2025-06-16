@@ -6,3 +6,11 @@
     cpu: true
     memory: true
     disk: /
+
+- status:
+    title: Statut Site Web
+    items:
+        - name: Site principal
+            url: https://association-traitdunion-handis.fr/
+            method: GET
+            timeout: 5000  

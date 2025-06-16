@@ -208,3 +208,197 @@
     at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
     at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
     at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+[2025-06-16T17:10:01.108Z] error: bad indentation of a mapping entry (16:17)
+
+ 13 |           href: https://discourse.dbm-agence.com/
+ 14 |     - Axeptio: 
+ 15 |         - abbr : Ax
+ 16 |            href : https://admin.axeptio.eu/proj ...
+----------------------^
+ 17 |            
+ 18 | 
+[2025-06-16T17:10:01.126Z] error: YAMLException: bad indentation of a mapping entry (16:17)
+
+ 13 |           href: https://discourse.dbm-agence.com/
+ 14 |     - Axeptio: 
+ 15 |         - abbr : Ax
+ 16 |            href : https://admin.axeptio.eu/proj ...
+----------------------^
+ 17 |            
+ 18 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2025-06-16T17:10:01.142Z] error: <index> YAMLException: bad indentation of a mapping entry (16:17)
+
+ 13 |           href: https://discourse.dbm-agence.com/
+ 14 |     - Axeptio: 
+ 15 |         - abbr : Ax
+ 16 |            href : https://admin.axeptio.eu/proj ...
+----------------------^
+ 17 |            
+ 18 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2025-06-16T17:10:01.754Z] error: bad indentation of a mapping entry (16:17)
+
+ 13 |           href: https://discourse.dbm-agence.com/
+ 14 |     - Axeptio: 
+ 15 |         - abbr : Ax
+ 16 |            href : https://admin.axeptio.eu/proj ...
+----------------------^
+ 17 |            
+ 18 | 
+[2025-06-16T17:10:01.758Z] error: YAMLException: bad indentation of a mapping entry (16:17)
+
+ 13 |           href: https://discourse.dbm-agence.com/
+ 14 |     - Axeptio: 
+ 15 |         - abbr : Ax
+ 16 |            href : https://admin.axeptio.eu/proj ...
+----------------------^
+ 17 |            
+ 18 | 
+    at generateError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1273:10)
+    at throwError (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:1277:9)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2272:7)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+    at readBlockMapping (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2254:11)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2531:12)
+    at readBlockSequence (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2098:5)
+    at composeNode (file:///app/node_modules/.pnpm/js-yaml@4.1.0/node_modules/js-yaml/dist/js-yaml.mjs:2530:12)
+[2025-06-16T17:20:03.815Z] error: Failed to load services.yaml, please check for errors
+[2025-06-16T17:20:03.816Z] error: TypeError: t[r].forEach is not a function
+[2025-06-16T17:20:03.819Z] error: Failed to load services.yaml, please check for errors
+[2025-06-16T17:20:03.820Z] error: TypeError: t[a].forEach is not a function
+[2025-06-16T17:20:04.689Z] error: Failed to load services.yaml, please check for errors
+[2025-06-16T17:20:04.690Z] error: TypeError: t[a].forEach is not a function
+[2025-06-16T17:22:27.979Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-16T17:22:27.979Z] error: bad indentation of a mapping entry (14:16)
+
+ 11 |     title: Statut Site Web
+ 12 |     items:
+ 13 |         - name: Site principal
+ 14 |             url: https://association-traitduni ...
+---------------------^
+ 15 |             method: GET
+ 16 |             timeout: 5000  
+[2025-06-16T17:22:28.029Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-16T17:22:28.029Z] error: bad indentation of a mapping entry (14:16)
+
+ 11 |     title: Statut Site Web
+ 12 |     items:
+ 13 |         - name: Site principal
+ 14 |             url: https://association-traitduni ...
+---------------------^
+ 15 |             method: GET
+ 16 |             timeout: 5000  
+[2025-06-16T17:22:28.387Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-16T17:22:28.389Z] error: bad indentation of a mapping entry (14:16)
+
+ 11 |     title: Statut Site Web
+ 12 |     items:
+ 13 |         - name: Site principal
+ 14 |             url: https://association-traitduni ...
+---------------------^
+ 15 |             method: GET
+ 16 |             timeout: 5000  
+[2025-06-16T17:23:02.752Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-16T17:23:02.752Z] error: bad indentation of a mapping entry (14:16)
+
+ 11 |     title: Statut Site Web
+ 12 |     items:
+ 13 |         - name: Site principal
+ 14 |             url: https://association-traitduni ...
+---------------------^
+ 15 |             method: GET
+ 16 |             timeout: 5000  
+[2025-06-16T17:23:02.772Z] error: undefined
+[2025-06-16T17:23:02.790Z] error: TypeError: e[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+[2025-06-16T17:23:02.818Z] error: <index> TypeError: e[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/pages/index.js:1:15075
+    at Array.map (<anonymous>)
+    at f (/app/.next/server/pages/index.js:1:15012)
+    at async L (/app/.next/server/pages/index.js:7:53402)
+    at async e3 (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages.runtime.prod.js:25:5108)
+    at async doRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:1593:38)
+    at async /app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/response-cache/index.js:84:36
+    at async /app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/lib/batcher.js:45:32
+[2025-06-16T17:23:03.826Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-16T17:23:03.827Z] error: bad indentation of a mapping entry (14:16)
+
+ 11 |     title: Statut Site Web
+ 12 |     items:
+ 13 |         - name: Site principal
+ 14 |             url: https://association-traitduni ...
+---------------------^
+ 15 |             method: GET
+ 16 |             timeout: 5000  
+[2025-06-16T17:23:03.833Z] error: undefined
+[2025-06-16T17:23:03.836Z] error: TypeError: e[Object.keys(...)[0]].map is not a function
+    at /app/.next/server/pages/api/bookmarks.js:1:2050
+    at Array.map (<anonymous>)
+    at m (/app/.next/server/pages/api/bookmarks.js:1:1987)
+    at async n (/app/.next/server/pages/api/bookmarks.js:1:1344)
+    at async X (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:18441)
+    at async z.render (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:20:19237)
+    at async NextNodeServer.runApi (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:671:9)
+    at async NextNodeServer.handleCatchallRenderRequest (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/next-server.js:302:37)
+    at async NextNodeServer.handleRequestImpl (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/base-server.js:899:17)
+    at async invokeRender (/app/node_modules/.pnpm/next@15.3.1_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/server/lib/router-server.js:237:21)
+[2025-06-16T17:23:09.789Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-16T17:23:09.790Z] error: bad indentation of a mapping entry (14:16)
+
+ 11 |     title: Statut Site Web
+ 12 |     items:
+ 13 |         - name: Site principal
+ 14 |             url: https://association-traitduni ...
+---------------------^
+ 15 |             method: GET
+ 16 |             timeout: 5000  
+[2025-06-16T17:23:09.830Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-16T17:23:09.831Z] error: bad indentation of a mapping entry (14:16)
+
+ 11 |     title: Statut Site Web
+ 12 |     items:
+ 13 |         - name: Site principal
+ 14 |             url: https://association-traitduni ...
+---------------------^
+ 15 |             method: GET
+ 16 |             timeout: 5000  
+[2025-06-16T17:23:10.181Z] error: Failed to load widgets, please check widgets.yaml for errors or remove example entries.
+[2025-06-16T17:23:10.181Z] error: bad indentation of a mapping entry (14:16)
+
+ 11 |     title: Statut Site Web
+ 12 |     items:
+ 13 |         - name: Site principal
+ 14 |             url: https://association-traitduni ...
+---------------------^
+ 15 |             method: GET
+ 16 |             timeout: 5000  

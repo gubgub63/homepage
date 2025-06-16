@@ -3,49 +3,28 @@
 # https://gethomepage.dev/configs/bookmarks
 
 
-- Veille Dev Web:
-    - GitHub:
-        - abbr: GH
-          href: https://github.com/
-          icon: github
-
-    - Stack Overflow:
-        - abbr: SO
-          href: https://stackoverflow.com/
-          icon: stack-overflow
-    - MDN Web Docs:
-        - abbr: MDN
-          href: https://developer.mozilla.org/fr/
-          icon: mdi-language-javascript
-    - CSS-Tricks:
-        - abbr: CSS
-          href: https://css-tricks.com/
-          icon: mdi-language-css3
-    - Smashing Magazine:
-        - abbr: SM
-          href: https://www.smashingmagazine.com/
-          icon: mdi-book-open-page-variant
-    - Dev.to:
-        - abbr: DEV
-          href: https://dev.to/
-          icon: dev-to
-    - Hacker News:
-        - abbr: HN
-          href: https://news.ycombinator.com/
-          icon: mdi-newspaper
-    - Product Hunt:
-        - abbr: PH
-          href: https://www.producthunt.com/
-          icon: product-hunt
-    - CodePen:
-        - abbr: CP
-          href: https://codepen.io/
-          icon: codepen
-    - Frontend Mentor:
-        - abbr: FM
-          href: https://www.frontendmentor.io/
-          icon: mdi-monitor-cellphone
-
+- Dev DBM :
+    - Gitlab:
+        - abbr: GL
+          href: https://gitlab.dbm-agence.com/
+          icon: gitlab
+    - Discourse:
+        - abbr: DS
+          href: https://discourse.dbm-agence.com/
+    - Axeptio: 
+        - abbr : Ax
+          href : https://admin.axeptio.eu/projects?perPage=50
+    - GTM:
+        - abbr : GTM
+          href : https://tagmanager.google.com/
+          icon : google
+- DBM :
+    - Procedure:
+        - abbr : PR
+          href : https://debussac.sharepoint.com/sites/procedures-dbm
+    - Monday: 
+        - abbr : MD
+          href : https://dbm-agence-team.monday.com/
 
 
           
