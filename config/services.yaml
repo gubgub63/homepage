@@ -17,17 +17,24 @@
           icon: wordpress
     -  CCI:
 
-- GitLab :
-    -  DBM:
-        type: gitlab
-        url: https://gitlab.dbm-agence.com/
-        token: TON_TOKEN_GITLAB
-        projects:
-            - ton-namespace/ton-projet
-            - ton-namespace/ton-autre-projet
-        showPipelines: true
-        showIssues: true
-        showMergeRequests: true
+- Nos elementor: 
+    - Murmure: 
+        href: https://www.bistrotmurmure.fr/
+    - F.Initiative:
+        href: https://www.f-initiatives.com/
+
+
+# - GitLab :
+#     -  DBM:
+#         type: gitlab
+#         url: https://gitlab.dbm-agence.com/
+#         token: TON_TOKEN_GITLAB
+#         projects:
+#             - ton-namespace/ton-projet
+#             - ton-namespace/ton-autre-projet
+#         showPipelines: true
+#         showIssues: true
+#         showMergeRequests: true
 
 
 
